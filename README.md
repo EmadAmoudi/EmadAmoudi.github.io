@@ -2,7 +2,7 @@
 
 Hello! This is my Github page for CS-155 class.
 
-This page is hosted at [emadamoudi.github.io] (https://emadamoudi.github.io/)
+This page is hosted at [EmadAmoudi.github.io](https://emadamoudi.github.io/)
 
 I would like to introduce myslef to you in this page.
 
