@@ -1,8 +1,13 @@
-## Example Github Page!
+# Example Github Page!
 
-Hello! This is an example of Github page that you will create in CS-155 :)
+Hello! This is my Github page for CS-155 class.
 
 This page is hosted at [emadamoudi.github.io] (https://emadamoudi.github.io/)
 
-Feel free to customize your page as much (or as little) as you wish. You are not graded on the content of your Github Page only that it exists!
+I would like to introduce myslef to you in this page.
+My name is Emad Amoudi. 
+I'm 21 years old.
+I enjoy playing some of sports, such as soccer⚽️, ping pong🏓, and tennis🎾.
+A few other hobbies I like to do are cooking food🧑‍🍳, playing video games🎮, making my own coffee at home☕️, and watching movies and animes🍿.
+
 
