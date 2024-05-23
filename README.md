@@ -12,6 +12,5 @@ I would like to introduce myslef to you in this page:
 + I enjoy playing some of sports, such as soccer⚽️, ping pong🏓, and tennis🎾.
 + A few other hobbies I like to do are cooking food🧑‍🍳, playing video games🎮, making my own coffee at home☕️, and watching movies and animes🍿.
 + I enjoy learning about programming languages and any related stuff to coding.
-.....
 
 
