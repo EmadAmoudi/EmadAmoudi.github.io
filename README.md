@@ -1,4 +1,4 @@
-# Example Github Page!
+## Example Github Page!
 
 Hello! This is my Github page for CS-155 class.
 
